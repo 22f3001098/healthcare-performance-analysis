@@ -70,9 +70,7 @@ This project analyzes quarterly *Patient Satisfaction Scores* for 2024 and compa
    - Offer **virtual queue check-in**, **asynchronous pre-visit Q&A**, and **self-scheduling**.
    - Send **proactive notifications** (ETA, delays, parking guidance).
 
-6. **Measurement & Governance**
-   - Track **Weekly Patient Satisfaction** and **Median Door-to-Doc Time** on an **executive dashboard**.
-   - Set **quarterly OKRs**: reduce median wait by **20%**, increase satisfaction by **+0.8** within two quarters.
+
 
 ---
 
