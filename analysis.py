@@ -29,7 +29,7 @@ def main():
     for x, y in zip(df["Quarter"], df["Patient_Satisfaction_Score"]):
         plt.text(x, y, f"{y:.2f}", ha="center", va="bottom")
     plt.tight_layout()
-    plt.savefig("chart.png", dpi=150)
+    plt.savefig("chart.png", dpi=10)
 
 if __name__ == "__main__":
     main()
