@@ -66,10 +66,6 @@ This project analyzes quarterly *Patient Satisfaction Scores* for 2024 and compa
    - Launch a **closed-loop feedback system** (NPS text mining, same-day callbacks for detractors).
    - Provide **service recovery vouchers** and escalation playbooks for waits > threshold.
 
-5. **Digital Touchpoints**
-   - Offer **virtual queue check-in**, **asynchronous pre-visit Q&A**, and **self-scheduling**.
-   - Send **proactive notifications** (ETA, delays, parking guidance).
-
 
 
 ---
