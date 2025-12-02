@@ -23,16 +23,16 @@ This project analyzes quarterly *Patient Satisfaction Scores* for 2024 and compa
 - **Q3:** 0.85
 - **Q4:** 3.89
 
-**Average (2024): 1.86**
+**Average (2024): 1.68**
 
 **Industry Target:** 4.5
 
-> The README includes the required correct average value: **1.86** (matches computed value).
+> The README includes the required correct average value: **1.68** (matches computed value).
 
 ---
 
 ## 🔎 Key Findings
-1. **Below-Target Average:** The 2024 average satisfaction score is **1.86**, far below the **4.5** industry benchmark.
+1. **Below-Target Average:** The 2024 average satisfaction score is **1.68**, far below the **4.5** industry benchmark.
 2. **High Volatility:** Scores swing from **-2.02 (Q1)** to **4.70 (Q2)**, indicating inconsistent patient experience and potential operational instability.
 3. **Incomplete Recovery:** After a spike in **Q2**, the score declines again in **Q3 (0.85)** and only partially recovers in **Q4 (3.89)**, still **0.61** below target.
 4. **Sustained Gap to Target:** Across three of four quarters, performance is below the benchmark; closing a **~2.6-point average gap** requires systematic improvements.
